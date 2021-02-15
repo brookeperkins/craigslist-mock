@@ -1,1 +1,1 @@
-# craigslist-mock
+# css practice recreating craigslist website layout
